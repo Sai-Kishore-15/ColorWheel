@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="SegmentControlTop">10dp</dimen>
+    <dimen name="textPadding">15dp</dimen>
+    <dimen name="secondaryTextSize">5sp</dimen>
+    <dimen name="safeMargin">10dp</dimen>
+
+</resources>
